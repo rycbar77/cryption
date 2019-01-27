@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+c:\users\schro\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\schro\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(150): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\schro\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(223): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\schro\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 700 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\schro\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
